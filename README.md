@@ -1,6 +1,6 @@
 # shield_box
 
-A new Flutter project.
+A mobile application written in the Flutter framework designed to display historical data from temperature, smoke, and humidity sensors in graphs. It is connected to a Django server from which it retrieves all the necessary information.
 
 ## Getting Started
 
